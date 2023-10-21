@@ -2,7 +2,9 @@
 This repository contains the python files to sample view points from a sphere using an icosahedron.
 
 ## Execution:
-Run 'python3 hemisphere_sampling_tracebot.py' in the folder containing the file.
+Run ```console
+foo@bar:~$ .../path_to_folder/ python3 hemisphere_sampling_tracebot.py
+```
 
 ### File: settings_tracebot.py
 Set needed hemisphere parameters in this file.
