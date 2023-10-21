@@ -3,8 +3,7 @@ This repository contains the python files to sample view points from a sphere us
 
 ## Execution:
 Run ```console
-foo@bar:~$ .../path_to_folder/ python3 hemisphere_sampling_tracebot.py
-```
+foo@bar:~$ .../path_to_folder/ python3 hemisphere_sampling_tracebot.py```
 
 ### File: settings_tracebot.py
 Set needed hemisphere parameters in this file.
